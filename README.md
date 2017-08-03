@@ -17,6 +17,9 @@ Use requestBin to see what your HTTP client is sending or to inspect and debug w
 
 ### NOTE: This is a development tool, not intended for production.
 
+#### Screenshot
+![alt](http://www.blusol.io/__media/requestBin.png)
+
 ```
 
                                        
